@@ -1,0 +1,164 @@
+body{
+    background-color: #2b2b2b;
+}
+h3{
+    line-height: 10px;
+    text-align: center;
+    color: #9dff00;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.banner-img{
+    text-align: center;
+}
+.description{
+    color: yellowgreen;
+    list-style-type: none;
+    text-align: center;
+    font-size: 17px;
+    font-family:cursive;
+}
+a{
+    color: white;
+}
+.desc-link{
+    color:yellow;
+}
+button{
+    background-color: green;
+    border: 2px solid rgb(0, 165, 0);
+    width:17%;
+    height: 10mm;
+    border-radius:5px;
+    cursor: pointer;
+    background-color: green;
+}
+.join-btns-div{
+    text-align:center;
+}
+h4{
+    line-height: 10px;
+    color: #9dff00;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+}
+li{
+    list-style-type:decimal-leading-zero;
+    color: #00ff80;
+}
+.post-bots{
+    color: #00ff80;
+    text-decoration: none;
+}
+.list-bots-notice{
+    color: #00d9ff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.join-btns{
+    text-decoration: none;
+    font-size: 3.5mm;
+}
+.url-upload{
+    color: #00ff80;
+    text-decoration: none;
+}
+.group-manage{
+    color: #00ff80;
+    text-decoration: none;
+}
+.game-bots{
+    color: #00ff80;
+    text-decoration: none;
+}
+.rename-bots{
+    color: #00ff80;
+    text-decoration: none;
+}
+p{
+    color: greenyellow;
+}
+.extras{
+    text-decoration: none;
+    text-align: center;
+}
+.top-name-hd{
+    background-color:rgb(0, 0, 0);
+    padding:2px;
+    text-align:center;
+    width:100%;
+    top: 0px;
+    left:0px;
+    position:fixed;
+    height: 85px;
+}
+.top-name{
+    border:solid 5px yellow;
+    display: inline-block;
+    border-radius: 30px;
+    width: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(212, 212, 212);
+}
+.end{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    color: rgb(230, 230, 230);
+}
+.github-1{
+    color: #9dff00;
+    text-align: center;
+}
+.github-repo-list{
+    text-align: left;
+    color: rgb(156, 211, 47);
+}
+.github-repo-about{
+    color: rgb(169, 255, 88);
+    font-family:Arial, Helvetica, sans-serif;
+}
+.special-text{
+    color: lawngreen;
+}
+.github-links{
+    text-decoration: none;
+    color:rgb(169, 255, 88);
+}
+.github-repos{
+    text-decoration: none;
+}
+.no-about-github{
+    color: rgb(255, 153, 0);
+}
+.join-btns:hover{
+    text-decoration: underline;
+}
+.post-bots:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+.url-upload:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+.group-manage:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+.game-bots:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+.rename-bots:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+.banner-img:hover{
+    position: relative;
+    bottom: 0.5em;
+}
+.rename-bots::selection{
+    color: black;
+    background-color: white;
+}
+.bots-list:hover{
+    font-size: 5mm;
+}
