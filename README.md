@@ -24,3 +24,4 @@ Method
 <b>Step 5:</b> Then press the "Add your bot➕" button and follow the instructions.
 <br>
 <hr>
+<b>Only 30 bots will be added to the website out of all bots.</b>
