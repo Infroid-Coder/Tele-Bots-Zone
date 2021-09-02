@@ -1,10 +1,10 @@
 # Tele-Bots-Zone
-A simple HTML web page by @indu-code-boy
+A simple HTML web page by <a href="https://github.com/Indu-Code-Boy">@Indu-Code-Boy</a>
 <hr>
 <br>
 Click <a href="https://indu-code-boy.github.io/Tele-Bots-Zone/"><b>here</b></a> to enter the page.
 <br>
-The owner is @Indu-Code-Boy. You can meet me on Telegram <a href="https://t.me/II_Catman_Sup_Bot">here</a>
+The owner is <a href="https://github.com/Indu-Code-Boy">@Indu-Code-Boy</a>. You can meet me on Telegram <a href="https://t.me/II_Catman_Sup_Bot">here</a>
 <br>
 If you want to add your bot to this website,
 <br>
