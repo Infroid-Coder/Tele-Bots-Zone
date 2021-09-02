@@ -4,6 +4,6 @@ A simple HTML web page by @indu-code-bot
 <br><br>
 Click <a href="https://indu-code-boy.github.io/Tele-Bots-Zone/"><b>here</b></a> to enter the page.
 <br>
-The owner is @Indu-Code-Boy. You can meet him on Telegram
+The owner is @Indu-Code-Boy. You can meet him
 <br>
-<a href="https://t.me/II_Catman_Sup_Bot">here</a>
+on Telegram <a href="https://t.me/II_Catman_Sup_Bot">here</a>
