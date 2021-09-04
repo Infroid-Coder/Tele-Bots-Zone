@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="Styles.css">
+
 # Tele-Bots-Zone
 A simple HTML web page by <a href="https://github.com/Indu-Code-Boy">@Indu-Code-Boy</a>
 <hr>
