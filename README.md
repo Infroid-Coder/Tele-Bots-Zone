@@ -27,3 +27,7 @@ Method
 <br>
 <hr>
 <b>Only 30 bots will be added to the website out of all bots.</b>
+<br><br>
+This feature will not be alive after 2021.09.31. So be quick.
+<br>
+If you don't have Telegram application,🤔 well, then you can't have any bot.🙂 Then this website is useless for you.🥵
